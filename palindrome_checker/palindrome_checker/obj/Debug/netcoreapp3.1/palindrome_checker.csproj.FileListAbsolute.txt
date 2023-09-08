@@ -1,0 +1,14 @@
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\bin\Debug\netcoreapp3.1\palindrome_checker.exe
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\bin\Debug\netcoreapp3.1\palindrome_checker.deps.json
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\bin\Debug\netcoreapp3.1\palindrome_checker.runtimeconfig.json
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\bin\Debug\netcoreapp3.1\palindrome_checker.runtimeconfig.dev.json
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\bin\Debug\netcoreapp3.1\palindrome_checker.dll
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\bin\Debug\netcoreapp3.1\palindrome_checker.pdb
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.csproj.AssemblyReference.cache
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.AssemblyInfoInputs.cache
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.AssemblyInfo.cs
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.dll
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.pdb
+C:\Users\Fineas\OneDrive\Desktop\Palindrome_checker\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.genruntimeconfig.cache
