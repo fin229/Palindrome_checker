@@ -14,8 +14,18 @@ namespace palindrome_checker
                 input = Console.ReadLine();
             } while(string.IsNullOrWhiteSpace(input));
 
-            string res=input.Split().Reverse().ToString();
-            Console.WriteLine(res);
+           string res=new string(input.ToArray().Reverse().ToArray());
+           
+           if (res==input)
+            {
+                Console.WriteLine("Het gegeven woord is een palindroom"+Environment.NewLine);
+                Console.WriteLine($"{res}<=>{input}");
+            }
+           else
+            {
+                Console.WriteLine("het gegeven woord is geen palindroom"+Environment.NewLine);
+                Console.WriteLine($"{res} is niet hetzelfde als {input}");
+            }
         }
     }
 }
